@@ -1,5 +1,6 @@
 {
-  "name": "frontend",
+  "homepage": "https://mr-vivekkumar.github.io/ReactProject/",
+  "name": "todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
